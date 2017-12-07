@@ -1,0 +1,4 @@
+This is second file
+git status -s
+
+git add newfile.txt

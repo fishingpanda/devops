@@ -2,3 +2,11 @@ This is second file
 git status -s
 
 git add newfile.txt
+
+git status -s
+git add secondfile.txt
+	A?
+git commit -m "message"
+
+git push origin master
+git log

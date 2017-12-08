@@ -8,5 +8,7 @@ git add secondfile.txt
 	A?
 git commit -m "message"
 
+other changes in ui  
+
 git push origin master
 git log

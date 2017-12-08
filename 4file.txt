@@ -11,4 +11,7 @@ git commit -m "message"
 other changes in ui  
 
 git push origin master
+
+new changes 
+
 git log
